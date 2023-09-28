@@ -1,0 +1,1 @@
+double generateRandom(double x_min, double x_max);
